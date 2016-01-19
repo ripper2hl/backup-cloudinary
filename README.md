@@ -1,5 +1,6 @@
 backup-cloudinary
 =================
+[![Dependency Status](https://david-dm.org/ripper2hl/backup-cloudinary.svg)](https://david-dm.org/ripper2hl/backup-cloudinary)
 
 This script copies all images (to a maximum of 500) from a Cloudinary account to your local disk.
 
